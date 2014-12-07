@@ -1,5 +1,5 @@
-Active shape models for optic nerve head characterization in optical coherence
-tomography
+<b>Active shape models for optic nerve head characterization in optical coherence
+tomography</b>
 
 The folder 'functions' includes functions used for this research.
 
